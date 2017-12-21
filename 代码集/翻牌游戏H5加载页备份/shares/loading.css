@@ -1,0 +1,38 @@
+#loadText{
+    position: absolute;
+    top: -20px; left: 0; bottom: 0; right: 0; 
+    color: white;
+}
+#guide{
+
+    position:fixed;
+    float: left;
+    top: 60%;
+    right: 50%;
+    margin: -150px -150px 0px 0px;
+    color: white;
+    width:300px;
+    height:300px;
+    border-style: solid;
+    border-width: 0;
+    text-align: center;
+    line-height: 150px;
+    z-index: 100;
+
+}
+#tt{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height: 100%;
+    width: 100%;
+}
+#per
+{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height: 100%;
+    width: 100%;
+
+}
